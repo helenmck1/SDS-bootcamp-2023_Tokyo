@@ -15,5 +15,5 @@
 ## 初めての空間データを使ったマシンラーニング（ハンズオン）：Christopher Kyed（PSS）
 * 
 
-** データ可視化クリニック（ハンズオン）：Helen McKenzie （CARTO）
+## データ可視化クリニック（ハンズオン）：Helen McKenzie （CARTO）
 *
