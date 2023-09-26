@@ -16,4 +16,5 @@
 * [資料](https://github.com/helenmck1/SDS-bootcamp-2023_Tokyo/tree/main/christopher_session)
 
 #### データ可視化クリニック（ハンズオン）：Helen McKenzie （CARTO）
-*
+*  [Slides](https://docs.google.com/presentation/d/1k8BEs7G_S_Zdlgoy3IsBkGXDXc80j_bLuEudgBDxwz4/edit?usp=sharing)
+*  [Worksheet](https://docs.google.com/document/d/14Bz5KTny5lF0VOE-PtGm24JtJvhdYJe2ZCb-hkC-DZg/edit?usp=sharing)
