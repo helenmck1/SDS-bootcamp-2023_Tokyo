@@ -18,3 +18,4 @@
 #### データ可視化クリニック（ハンズオン）：Helen McKenzie （CARTO）
 *  [Slides](https://docs.google.com/presentation/d/1k8BEs7G_S_Zdlgoy3IsBkGXDXc80j_bLuEudgBDxwz4/edit?usp=sharing)
 *  [Worksheet](https://docs.google.com/document/d/14Bz5KTny5lF0VOE-PtGm24JtJvhdYJe2ZCb-hkC-DZg/edit?usp=sharing)
+*  [Slides Japanese](https://docs.google.com/document/d/1HE3T9kbKvd9FCJSGXUCxsXy4vsloO7ugPYy9TULQfIw/edit)
