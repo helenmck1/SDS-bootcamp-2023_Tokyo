@@ -7,7 +7,7 @@
 * [Notebook](https://github.com/pacificspatial/flateau/blob/main/notebook/sdsc_bootcamp_tokyo.ipynb)
 
 #### 人流・車流の軌跡類似度を用いたクラスター分析（ユースケース）： 鳥越　貴知（トヨタ自動車）
-* [Slides]()
+* [Slides](Session3_Slides.pdf)
 
 #### 人流データ x データサイエンスで見える世界（ユースケース）：加瀬　正和（ジオテクノロジーズ株式会社）
 * [Slides(後日公開)]
