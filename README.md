@@ -1,7 +1,7 @@
 # Spatial Data Science Bootcamp 東京
 
 #### 空間データサイエンスのはじめの一歩：赤坂宗光（東京農工大学大学院）
-* [Slides]()
+* [Slides](Session1_Slides.pdf)
 
 #### PLATEAUで始める空間クエリ（ハンズオン）：今木洋大（PSS）
 * [Notebook](https://github.com/pacificspatial/flateau/blob/main/notebook/sdsc_bootcamp_tokyo.ipynb)
