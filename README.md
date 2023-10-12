@@ -10,7 +10,7 @@
 * [Slides](Session3_Slides.pdf)
 
 #### 人流データ x データサイエンスで見える世界（ユースケース）：加瀬　正和（ジオテクノロジーズ株式会社）
-* [Slides(Session4_Slides.pdf)]
+* [Slides](Session4_Slides.pdf)
 
 #### 初めての空間データを使ったマシンラーニング（ハンズオン）：Christopher Kyed（PSS）
 * [資料](https://github.com/helenmck1/SDS-bootcamp-2023_Tokyo/tree/main/christopher_session)
